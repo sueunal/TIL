@@ -14,6 +14,7 @@
 		2C5A34932B1848A80065A843 /* TILTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C5A34922B1848A80065A843 /* TILTests.swift */; };
 		2C5A349D2B1848A80065A843 /* TILUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C5A349C2B1848A80065A843 /* TILUITests.swift */; };
 		2C5A349F2B1848A80065A843 /* TILUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C5A349E2B1848A80065A843 /* TILUITestsLaunchTests.swift */; };
+		2C5A34AC2B1849500065A843 /* Generic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C5A34AB2B1849500065A843 /* Generic.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,8 @@
 		2C5A34982B1848A80065A843 /* TILUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TILUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C5A349C2B1848A80065A843 /* TILUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TILUITests.swift; sourceTree = "<group>"; };
 		2C5A349E2B1848A80065A843 /* TILUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TILUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2C5A34AB2B1849500065A843 /* Generic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Generic.swift; sourceTree = "<group>"; };
+		2C5A34AD2B1850450065A843 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +99,8 @@
 			children = (
 				2C5A34812B1848A70065A843 /* TILApp.swift */,
 				2C5A34832B1848A70065A843 /* ContentView.swift */,
+				2C5A34AB2B1849500065A843 /* Generic.swift */,
+				2C5A34AD2B1850450065A843 /* README.md */,
 				2C5A34852B1848A80065A843 /* Assets.xcassets */,
 				2C5A34872B1848A80065A843 /* Preview Content */,
 			);
@@ -259,6 +264,7 @@
 			files = (
 				2C5A34842B1848A70065A843 /* ContentView.swift in Sources */,
 				2C5A34822B1848A70065A843 /* TILApp.swift in Sources */,
+				2C5A34AC2B1849500065A843 /* Generic.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
